@@ -55,6 +55,7 @@ Control Variables: Price, promotions, holidays, etc.
 Example format:
 Date	TV_Spend	Digital_Spend	Print_Spend	Sales	Price	Promo
 2020-01-01	45.2	32.1	12.5	215	9.99	0
+
 ## Model Outputs
 Channel Effectiveness:
 ROI estimates for each channel
